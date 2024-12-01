@@ -86,7 +86,7 @@ This project is a **Task Tracker Stopwatch**, a web-based application designed t
 ## Screenshots
 
 ### Main Interface
-![Task Tracker Stopwatch UI](path-to-screenshot)
+Will be added!
 
 ## Contribution
 Contributions are welcome! If you have ideas or enhancements, feel free to submit a pull request or open an issue.
